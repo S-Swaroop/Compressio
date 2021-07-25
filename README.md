@@ -1,3 +1,12 @@
+# Getting Started : 
+-install all the dependencies with 
+    ```sh
+    npm install
+    ```
+-start the development server
+    ```sh
+    npm start
+    ```
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
