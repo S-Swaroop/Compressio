@@ -1,10 +1,10 @@
 # Getting Started : 
--install all the dependencies with 
-    ```sh
+- install all the dependencies with 
+    ```
     npm install
     ```
--start the development server
-    ```sh
+- start the development server
+    ```
     npm start
     ```
 # Getting Started with Create React App
