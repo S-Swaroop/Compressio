@@ -3,7 +3,7 @@ import imageCompression from 'browser-image-compression'
 import { Card } from 'react-bootstrap'
 
 function ImageCompressor() {
-    const [compressedLink, setCompressedLink] = useState("./placeholder.png") ; 
+    const [compressedLink, setCompressedLink] = useState("https://github.com/S-Swaroop/ImageCompressor/blob/main/src/components/ImageCompressor/placeholder.png") ; 
     const [originalImage, setOriginalImage] = useState("") ; 
     const [originalLink, setOriginalLink] = useState("") ; 
     const [uploadImage, setUploadImage] = useState(false) ; 
@@ -76,7 +76,7 @@ function ImageCompressor() {
               <Card.Img
                 className="ht"
                 variant="top"
-                src=".\placeholder.png"
+                src="https://github.com/S-Swaroop/ImageCompressor/blob/main/src/components/ImageCompressor/placeholder.png"
               ></Card.Img>
             )}
             <div className="d-flex justify-content-center">
