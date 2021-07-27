@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ImageCompressor/static/css/main.94a1f29a.chunk.css",
-    "main.js": "/ImageCompressor/static/js/main.e227aacd.chunk.js",
-    "main.js.map": "/ImageCompressor/static/js/main.e227aacd.chunk.js.map",
-    "runtime-main.js": "/ImageCompressor/static/js/runtime-main.6cb82d18.js",
-    "runtime-main.js.map": "/ImageCompressor/static/js/runtime-main.6cb82d18.js.map",
-    "static/js/2.bc3f7f02.chunk.js": "/ImageCompressor/static/js/2.bc3f7f02.chunk.js",
-    "static/js/2.bc3f7f02.chunk.js.map": "/ImageCompressor/static/js/2.bc3f7f02.chunk.js.map",
-    "index.html": "/ImageCompressor/index.html",
-    "static/css/main.94a1f29a.chunk.css.map": "/ImageCompressor/static/css/main.94a1f29a.chunk.css.map",
-    "static/js/2.bc3f7f02.chunk.js.LICENSE.txt": "/ImageCompressor/static/js/2.bc3f7f02.chunk.js.LICENSE.txt"
+    "main.css": "/Compressio/static/css/main.94a1f29a.chunk.css",
+    "main.js": "/Compressio/static/js/main.e227aacd.chunk.js",
+    "main.js.map": "/Compressio/static/js/main.e227aacd.chunk.js.map",
+    "runtime-main.js": "/Compressio/static/js/runtime-main.064b9cb1.js",
+    "runtime-main.js.map": "/Compressio/static/js/runtime-main.064b9cb1.js.map",
+    "static/js/2.bc3f7f02.chunk.js": "/Compressio/static/js/2.bc3f7f02.chunk.js",
+    "static/js/2.bc3f7f02.chunk.js.map": "/Compressio/static/js/2.bc3f7f02.chunk.js.map",
+    "index.html": "/Compressio/index.html",
+    "static/css/main.94a1f29a.chunk.css.map": "/Compressio/static/css/main.94a1f29a.chunk.css.map",
+    "static/js/2.bc3f7f02.chunk.js.LICENSE.txt": "/Compressio/static/js/2.bc3f7f02.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6cb82d18.js",
+    "static/js/runtime-main.064b9cb1.js",
     "static/js/2.bc3f7f02.chunk.js",
     "static/css/main.94a1f29a.chunk.css",
     "static/js/main.e227aacd.chunk.js"
